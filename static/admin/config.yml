@@ -1,5 +1,5 @@
 backend:
-  name: kareembh
+  name: github
   repo: kareembh/gatsby-netlify-test
 
 media_folder: content/assets
